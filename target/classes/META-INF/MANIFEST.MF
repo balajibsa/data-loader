@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: data-loader-scheduler
+Implementation-Version: 1.0
+Built-By: balaji
+Implementation-Vendor-Id: uk.co.colleagueassist.dataloader
+Build-Jdk: 1.8.0_51
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
